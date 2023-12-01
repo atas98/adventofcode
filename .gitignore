@@ -1,2 +1,16 @@
+### Rust ###
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+### Python ###
+*.py[cod]
+*.so
+
+### Misc ###
 .vscode
-**/target
+input.txt
+*_input.txt
+*_input*.txt
